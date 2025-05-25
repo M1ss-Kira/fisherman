@@ -4,12 +4,10 @@
 **Студент:** Дмитриева Кира К.  
 **Группа:** ИПО-21-23    
 
----
-
-##  **Циклы**
+**---**
 
 ### Задание 1: Расчет сложных процентов
-[![Открыть код](https://img.shields.io/badge/Код-Расчет_процентов-00599C?logo=csharp)](https://github.com/FallCracka/chalenge/blob/main/%D1%86%D0%B8%D0%BA%D0%BB%D1%8B/%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%201.cs)
+(https://github.com/FallCracka/chalenge/blob/main/%D1%86%D0%B8%D0%BA%D0%BB%D1%8B/%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%201.cs)
 
 
 ### Задание 2: Альтернативный расчет вклада
