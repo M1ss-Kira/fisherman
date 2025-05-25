@@ -7,17 +7,17 @@
 **---**
 
 ### Задание 1: Расчет сложных процентов
-[Открыть код] (https://github.com/M1ss-Kira/fisherman/blob/main/циклы/1)
+[1](https://github.com/M1ss-Kira/fisherman/blob/main/циклы/1)
 
 
 ### Задание 2: Альтернативный расчет вклада
-[Открыть код] (https://github.com/M1ss-Kira/fisherman/blob/main/циклы/2)
+[2](https://github.com/M1ss-Kira/fisherman/blob/main/циклы/2)
 
 
 ---
 
 ### Задание 3: Таблица умножения
-[Открыть код] (https://github.com/M1ss-Kira/fisherman/blob/main/циклы/3)
+[3](https://github.com/M1ss-Kira/fisherman/blob/main/циклы/3)
 
 **Условие:**  
 Вывести таблицу умножения 10×10.
