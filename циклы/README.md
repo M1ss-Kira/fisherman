@@ -18,5 +18,5 @@
 ---
 
 ### Задание 4: Валидация ввода
-[тут](https://github.com/M1ss-Kira/fisherman/blob/main/циклы/3)
+[тут](https://github.com/M1ss-Kira/fisherman/blob/main/циклы/4)
 ---
