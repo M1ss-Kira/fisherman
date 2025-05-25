@@ -7,24 +7,17 @@
 **---**
 
 ### Задание 1: Расчет сложных процентов
-(https://github.com/FallCracka/chalenge/blob/main/%D1%86%D0%B8%D0%BA%D0%BB%D1%8B/%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%201.cs)
+[Открыть код] (https://github.com/M1ss-Kira/fisherman/blob/main/циклы/1)
 
 
 ### Задание 2: Альтернативный расчет вклада
-[![Открыть код](https://github.com/FallCracka/chalenge/blob/main/%D1%86%D0%B8%D0%BA%D0%BB%D1%8B/%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%202.cs)
+[Открыть код] (https://github.com/M1ss-Kira/fisherman/blob/main/циклы/2)
 
-**Условие:**  
-Реализовать расчет вклада через цикл `while`.
-
-**Технологии:**
-- Цикл `while`
-- Метод `Parse()` для ввода
-- Сравнение с решением через `for`
 
 ---
 
 ### Задание 3: Таблица умножения
-[![Открыть код](https://img.shields.io/badge/Код-Таблица_умножения-FF8C00)](https://github.com/FallCracka/chalenge/blob/main/%D1%86%D0%B8%D0%BA%D0%BB%D1%8B/%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%203.cs)
+[Открыть код] (https://github.com/M1ss-Kira/fisherman/blob/main/циклы/3)
 
 **Условие:**  
 Вывести таблицу умножения 10×10.
