@@ -67,7 +67,7 @@
 🔗 [Смотреть изображение](https://github.com/M1ss-Kira/fisherman/blob/main/block/5zd.jpg)
 
 ### 🖼️ Задание 7 — схема  
- ..я забыла загрузить, щас..
+
 ---
 
 ## 🚀 Задания CodeRun
