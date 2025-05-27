@@ -92,4 +92,4 @@
 ---
 
 ### Проводник
-🔗 [Вот тут](https://github.com/M1ss-Kira/fisherman/blob/main/Folder/proga)
+🔗 [Вот тут](https://github.com/M1ss-Kira/fisherman/blob/main/Folder/proga.sln)
