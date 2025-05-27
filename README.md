@@ -67,6 +67,7 @@
 🔗 [Смотреть изображение](https://github.com/M1ss-Kira/fisherman/blob/main/block/5zd.jpg)
 
 ### 🖼️ Задание 7 — схема  
+🔗 [Смотреть изображение](https://github.com/M1ss-Kira/fisherman/blob/main/block/%D0%91%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F258_20250527083006.png)  
 
 ---
 
