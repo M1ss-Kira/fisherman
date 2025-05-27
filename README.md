@@ -39,22 +39,14 @@
 ### 🧩 Метод 1  
 🔗 [Посмотреть код](https://github.com/M1ss-Kira/fisherman/blob/main/metod/1met.cs)
 
----
-
 ### 🧩 Метод 2  
 🔗 [Посмотреть код](https://github.com/M1ss-Kira/fisherman/blob/main/metod/2met.cs)
-
----
 
 ### 🧩 Метод 3  
 🔗 [Посмотреть код](https://github.com/M1ss-Kira/fisherman/blob/main/metod/3met.cs)
 
----
-
 ### 🧩 Метод 4  
 🔗 [Посмотреть код](https://github.com/M1ss-Kira/fisherman/blob/main/metod/4met.cs)
-
----
 
 ### 🧩 Метод 5  
 🔗 [Посмотреть код](https://github.com/M1ss-Kira/fisherman/blob/main/metod/5met.cs)
@@ -71,18 +63,28 @@
 ### 📄 Задания 1–4, 6 (ответы)  
 🔗 [Файл с ответами](https://github.com/M1ss-Kira/fisherman/blob/main/block/16dz.txt)
 
----
-
 ### 🖼️ Задание 5 — схема  
 🔗 [Смотреть изображение](https://github.com/M1ss-Kira/fisherman/blob/main/block/5zd.jpg)
 
----
-
 ### 🖼️ Задание 7 — схема  
-
+ ..я забыла загрузить, щас..
 ---
 
-## 🚀 Программа Run  
-*(описание и ссылка не предоставлены)*
+## 🚀 Задания CodeRun
+
+### 🧪 Задание 1  
+🔗 [Посмотреть код](https://github.com/M1ss-Kira/fisherman/blob/main/Run/First.cs)
+
+### 🧪 Задание 2  
+🔗 [Посмотреть код](https://github.com/M1ss-Kira/fisherman/blob/main/Run/Two.cs)
+
+### 🧪 Задание 3  
+🔗 [Посмотреть код](https://github.com/M1ss-Kira/fisherman/blob/main/Run/Three.cs)
+
+### 🧪 Задание 4  
+🔗 [Посмотреть код](https://github.com/M1ss-Kira/fisherman/blob/main/Run/Four.cs)
+
+### 🧪 Задание 5  
+🔗 [Посмотреть код](https://github.com/M1ss-Kira/fisherman/blob/main/Run/Five.cs)
 
 ---
