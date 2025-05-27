@@ -90,6 +90,3 @@
 🔗 [Посмотреть код](https://github.com/M1ss-Kira/fisherman/blob/main/Run/Five.cs)
 
 ---
-
-### Проводник
-🔗 [Вот тут](https://github.com/M1ss-Kira/fisherman/blob/main/Folder/proga.sln)
