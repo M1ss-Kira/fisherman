@@ -1,0 +1,7 @@
+D:\IPO-33.22\Магомедов Александр\foldder\foldder\obj\Debug\foldder.csproj.AssemblyReference.cache
+D:\IPO-33.22\Магомедов Александр\foldder\foldder\obj\Debug\foldder.csproj.CoreCompileInputs.cache
+D:\IPO-33.22\Магомедов Александр\foldder\foldder\bin\Debug\foldder.exe.config
+D:\IPO-33.22\Магомедов Александр\foldder\foldder\bin\Debug\foldder.exe
+D:\IPO-33.22\Магомедов Александр\foldder\foldder\bin\Debug\foldder.pdb
+D:\IPO-33.22\Магомедов Александр\foldder\foldder\obj\Debug\foldder.exe
+D:\IPO-33.22\Магомедов Александр\foldder\foldder\obj\Debug\foldder.pdb
