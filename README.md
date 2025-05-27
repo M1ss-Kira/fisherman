@@ -36,11 +36,28 @@
 
 ## 🛠️ Методы
 
-- 🔧 [Метод 1](https://github.com/M1ss-Kira/fisherman/blob/main/metod/1met.cs)
-- 🔧 [Метод 2](https://github.com/M1ss-Kira/fisherman/blob/main/metod/2met.cs)
-- 🔧 [Метод 3](https://github.com/M1ss-Kira/fisherman/blob/main/metod/3met.cs)
-- 🔧 [Метод 4](https://github.com/M1ss-Kira/fisherman/blob/main/metod/4met.cs)
-- 🔧 [Метод 5](https://github.com/M1ss-Kira/fisherman/blob/main/metod/5met.cs)
+### 🧩 Метод 1  
+🔗 [Посмотреть код](https://github.com/M1ss-Kira/fisherman/blob/main/metod/1met.cs)
+
+---
+
+### 🧩 Метод 2  
+🔗 [Посмотреть код](https://github.com/M1ss-Kira/fisherman/blob/main/metod/2met.cs)
+
+---
+
+### 🧩 Метод 3  
+🔗 [Посмотреть код](https://github.com/M1ss-Kira/fisherman/blob/main/metod/3met.cs)
+
+---
+
+### 🧩 Метод 4  
+🔗 [Посмотреть код](https://github.com/M1ss-Kira/fisherman/blob/main/metod/4met.cs)
+
+---
+
+### 🧩 Метод 5  
+🔗 [Посмотреть код](https://github.com/M1ss-Kira/fisherman/blob/main/metod/5met.cs)
 
 ---
 
@@ -49,14 +66,19 @@
 
 ---
 
-## 🧭 Блок-схемы
+## 🧭 Задания по блок-схемам
 
-- 📄 Ответы на задания 1–4, 6  
-  🔗 [Посмотреть](https://github.com/M1ss-Kira/fisherman/blob/main/block/16dz.txt)
-- 🖼️ Схема задания 5  
-  🔗 [Изображение](https://github.com/M1ss-Kira/fisherman/blob/main/block/5zd.jpg)
-- ❓ Схема задания 7  
-  ⚠️ **Ссылка отсутствует**
+### 📄 Задания 1–4, 6 (ответы)  
+🔗 [Файл с ответами](https://github.com/M1ss-Kira/fisherman/blob/main/block/16dz.txt)
+
+---
+
+### 🖼️ Задание 5 — схема  
+🔗 [Смотреть изображение](https://github.com/M1ss-Kira/fisherman/blob/main/block/5zd.jpg)
+
+---
+
+### 🖼️ Задание 7 — схема  
 
 ---
 
